@@ -1,0 +1,11 @@
+streamlit
+pandas
+pytrends
+ollama
+replicate
+pytrends
+python-dotenv
+Pillow
+requests
+plotly
+pandas
