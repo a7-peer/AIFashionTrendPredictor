@@ -1,7 +1,7 @@
 
 # Pakistan Fashion Trend Predictor AI
 
-This project uses AI to predict emerging fashion trends in Pakistan by analyzing Google search trends data with Pytrends and leveraging LLaMA language models for trend forecasting. It is deployed on Replit for easy access and interaction.
+This project uses AI to predict emerging fashion trends in Pakistan by analyzing Google search trends data with Pytrends and leveraging LLaMA language models for trend forecasting. It use repplit for image generation plus google suggestion link.
 
 ---
 
@@ -9,7 +9,7 @@ This project uses AI to predict emerging fashion trends in Pakistan by analyzing
 
 - **Google Trends Data:** Collects fashion-related trending search data specific to Pakistan using Pytrends.
 - **AI Trend Prediction:** Uses LLaMA-based natural language models to analyze trends and generate fashion forecasts.
-- **Interactive Platform:** Hosted on Replit for seamless online interaction and updates.
+- **Image generation:** use Replit/open ai model for image generation.
 - **Focus on Pakistani Fashion:** Tailored to regional fashion insights and trend patterns.
 
 ---
