@@ -79,5 +79,3 @@ For questions or feedback, please open an issue or contact \[your email/contact 
 
 ---
 
-If you want me to help generate `requirements.txt` or any other docs, just ask! Would you like me to prepare that too?
-```
