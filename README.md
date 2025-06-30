@@ -1,8 +1,4 @@
-Thanks for sharing the GitHub link! I checked your project repo **AIFashionTrendPredictor** and based on its typical setup and tech (LLaMA, Pytrends, Replit), here’s a polished README.md draft you can add to your repo:
 
----
-
-````markdown
 # Pakistan Fashion Trend Predictor AI
 
 This project uses AI to predict emerging fashion trends in Pakistan by analyzing Google search trends data with Pytrends and leveraging LLaMA language models for trend forecasting. It is deployed on Replit for easy access and interaction.
