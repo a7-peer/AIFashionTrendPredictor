@@ -1,0 +1,1 @@
+Generate an artistic fashion image inspired by the trend: {trend}
